@@ -34,8 +34,5 @@ h2
 
 a:hover
 {
-  .heart
-  {
-    color:purple;
-  }
+  text-decoration:none;
 }
