@@ -6,7 +6,7 @@ body
 
 .heart
 {
-	font-size: 600px;
+	font-size: 400px;
 	color: red;
 	animation: beat .50s infinite alternate;
 	transform-origin: center;
@@ -21,4 +21,10 @@ h1
 {
   position:relative;
   bottom:200px;
+}
+
+h2
+{
+  color:white;
+  font-style:Serif;
 }
