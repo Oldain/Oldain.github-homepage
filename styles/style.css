@@ -34,5 +34,8 @@ h2
 
 a:hover
 {
-  cursor:pointer;
+  .heart
+  {
+    color:purple;
+  }
 }
