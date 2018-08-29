@@ -14,7 +14,9 @@ body
 
 @keyframes beat
 {
-	to { transform: scale(1.4); }
+	to { transform: scale(1.4);
+       transform: rotate(20 deg);}
+
 }
 
 h1
