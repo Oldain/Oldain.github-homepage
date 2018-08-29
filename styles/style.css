@@ -10,7 +10,6 @@ body
 	color: red;
 	animation: beat .50s infinite alternate;
 	transform-origin: center;
-  transform: rotate(20 deg);
 }
 
 @keyframes beat
