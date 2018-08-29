@@ -7,7 +7,7 @@ body
 .heart
 {
 	font-size: 400px;
-	color: red;
+	color: rgba(255, 0, 0, 1);
 	animation: beat .50s infinite alternate;
 	transform-origin: center;
 }
