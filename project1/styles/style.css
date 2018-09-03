@@ -9,7 +9,7 @@ body
 .main
 {
   background-color:blue;
-  display:inline;
+  display:block;
   height:200px;
   width:100%;
 }
