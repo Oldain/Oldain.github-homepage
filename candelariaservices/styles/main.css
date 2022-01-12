@@ -3,7 +3,8 @@ body
         background-color:black;
     }
 
-.calendar 
+#calendar 
 {
-    align-content: center;
+    width:50%;
+    margin:auto;
 }
