@@ -8,16 +8,3 @@ body
         width:50%;
         margin:auto;
     }
-.hide
-    {
-
-        position:relative;
-        width:800px;
-        height:16px;
-        top:16px;
-        right:75px;
-        z-index:5;
-        background-color: #c2c2c2;
-        align-self:center;
-        margin:auto;
-    }
