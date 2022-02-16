@@ -24,6 +24,22 @@ body
         margin:auto;
         font-size:25px;
     }
+#logoContainer
+    {
+        height:182.3%;
+        width:23.5%;
+        background-color:gold;
+        position:relative;
+        left:30%;
+    }
+.companyImg
+    {      
+        position:relative;
+        bottom:20%;
+        width:100%;
+        height:100%;
+        
+    }
 .top
     {
         margin:20px auto 0px auto;
@@ -129,17 +145,6 @@ body
         top:20%;
         left:24%;
     }
-#logo
-    {
-        background-color:beige;
-        height:400px;
-        width:400px;
-        border-radius: 50%;
-        text-align:center;
-        position:relative;
-        left:30.5%;
-        bottom:50%;
-    }
 #photoGallery
     {
         background-color:green;
@@ -173,24 +178,11 @@ body
     {
         background-color:fuchsia;
     }
-#circ
-    {
-        color:white;
-        position:absolute;
-        left:50%;
-        top:70%;
-    }
+
 #comText
     {
         color:white;
         position:absolute;
         top:13%;
         left:50%;         
-    }
-#logoText
-    {
-        color:black;
-        position:absolute;
-        top:50%;
-        left:45%;      
     }
