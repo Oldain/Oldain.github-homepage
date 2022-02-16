@@ -114,7 +114,7 @@ body
 
 #licenseDiv
 {
-    background-image: url("images/bricks.png");
+    background-image: url("/candelariaservices/images/bricks.png");
     background-repeat:repeat;
     width:82.4%;
     margin: 0px auto 0px auto;
@@ -151,7 +151,7 @@ p
 {
     position:relative;
     right:25%;
-    background-image: url("images/bricks.png");
+    background-image: url("/candelariaservices/images/bricks.png");
     background-repeat:repeat;
     height:33.33%;
     width:100%;
@@ -300,7 +300,7 @@ p
 {
     position:relative;
     right:25%;
-    background-image: url("images/bricks.png");
+    background-image: url("/candelariaservices/images/bricks.png");
     background-repeat:repeat;
     height:33.33%;
     width:100%;
@@ -541,7 +541,7 @@ p
 
 #aboutUs
 {
-    background-image: url("images/bricks.png");
+    background-image: url("/candelariaservices/images/bricks.png");
     background-repeat:repeat;
     width:22%;
     height:50%;
@@ -554,7 +554,7 @@ p
 
 #whatDo
 {
-    background-image: url("images/bricks.png");
+    background-image: url("/candelariaservices/images/bricks.png");
     background-repeat:repeat;
     width:20%;
     height:50%;
@@ -571,7 +571,7 @@ p
 
 #photoGallery
 {
-    background-image: url("images/bricks.png");
+    background-image: url("/candelariaservices/images/bricks.png");
     background-repeat:repeat;
     position:relative;
     right:25%;
@@ -587,7 +587,7 @@ p
 
 #appCalendar
 {
-    background-image: url("images/bricks.png");
+    background-image: url("/candelariaservices/images/bricks.png");
     background-repeat:repeat;
     position:relative;
     right:25%;
